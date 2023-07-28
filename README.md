@@ -1,6 +1,6 @@
 # Monte Carlo Stock Price Prediction
 
-![montecarlo](results/montecarlo.png)
+<img src="results/montecarlo" alt="Example Image" style="width: 300px;">
 
 ## Overview
 
