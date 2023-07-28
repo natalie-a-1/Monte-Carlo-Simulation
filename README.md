@@ -1,6 +1,6 @@
 # Monte Carlo Stock Price Prediction
 
-![Alt text]('/Users/nataliehill/Desktop/Screenshot 2023-07-27 at 8.29.11 PM.png')
+![montecarlo](results/montecarlo.png)
 
 ## Overview
 
@@ -79,7 +79,7 @@ pip install yfinance numpy matplotlib scipy
    ```
 
 ## Analytical Results
-
+![result](results/resultText.png)
 After running the Monte Carlo simulation with 300 iterations, the following insightful results are obtained:
 
 1. **Mean percent change**: The average percentage change in the simulated stock price over one trading day is approximately 0.11%. This metric provides an indication of the expected daily growth or decline in the stock price.
