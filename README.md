@@ -1,5 +1,7 @@
 # Monte Carlo Stock Price Prediction
 
+![Alt text]('/Users/nataliehill/Desktop/Screenshot 2023-07-27 at 8.29.11 PM.png')
+
 ## Overview
 
 This Python script performs a Monte Carlo simulation to predict future stock prices of Apple Inc. (ticker symbol: AAPL) based on historical closing price data. The simulation uses statistical analysis to generate multiple potential stock price paths and provides insightful metrics for analysis.
